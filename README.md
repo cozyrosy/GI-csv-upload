@@ -105,12 +105,15 @@ Invalid User,invalidemail,200
     ]
     
 }
+![API Screenshot](https://github.com/cozyrosy/GI-csv-upload/blob/master/api_response.PNG)
+
 
 ## Running Tests
 To run the test cases:
 ```
 python manage.py test
 ```
+![API Screenshot](https://github.com/cozyrosy/GI-csv-upload/blob/master/test.PNG)
 
 ## Author
 👤 Rose Grace Jacob
